@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 a = int(input('Enter any positive number : '))
-b = []
+b = [a]
 while True:
     if a%2 == 0:
         a = a/2
