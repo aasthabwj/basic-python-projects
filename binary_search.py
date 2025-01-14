@@ -17,5 +17,5 @@ while a <= b :
         a = c + 1
     else:
         b = c - 1
-if a> b :
+if a> b : #dfghj
     print("Number not found.")
